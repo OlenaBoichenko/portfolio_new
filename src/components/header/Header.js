@@ -14,7 +14,7 @@ export const Header = () => {
           <p>with passion for learning and creating.</p>
         </div>
         <a
-          href="./Olena_Boichenko_CV.pdf"
+          href="https://drive.google.com/file/d/1PgfXZKw5YEU1QyOXIoitAkr5bBtMdR-Z/view?usp=sharing"
           download="Olena_Boichenko_CV.pdf"
           className="btn"
         >
