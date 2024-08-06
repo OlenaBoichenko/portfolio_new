@@ -12,7 +12,7 @@ import tips from "../img/projects/tips.jpg";
 
 const projects = [
   {
-    title: "Candels home shop",
+    title: "Candles home shop",
     skills: "React, Redux, Node.js, MongoDB, Stripe",
     img: candle,
     link: "https://candelshome.netlify.app/",
@@ -33,7 +33,7 @@ const projects = [
   },
 
   {
-    title: "Landing",
+    title: "Marine surveys",
     skills: "Java Script, HTML, CSS",
     img: yacht,
     link: "https://serov.yachts/",
@@ -47,7 +47,7 @@ const projects = [
   },
 
   {
-    title: "Counter",
+    title: "Days counter",
     skills: "Java Script, HTML, CSS",
     img: newyear,
     link: "https://counting-to-new-year.glitch.me/",
@@ -68,24 +68,24 @@ const projects = [
   },
 
   {
-    title: "Training",
+    title: "Furniture show room",
     skills: "Java Script, HTML, CSS",
     img: shop,
-    gitHubLink: "https://furniture-salon-new.glitch.me/",
+    link: "https://furniture-salon-new.glitch.me/",
   },
 
   {
     title: "Relaxtion app",
     skills: "Java Script, HTML, CSS",
     img: relax,
-    gitHubLink: "https://my-own-meditation.glitch.me/",
+    link: "https://my-own-meditation.glitch.me/",
   },
 
   {
     title: "Tip counter",
     skills: "Java Script, HTML, CSS",
     img: tips,
-    gitHubLink: "https://some-tips.glitch.me/",
+    link: "https://some-tips.glitch.me/",
   },
 ];
 
