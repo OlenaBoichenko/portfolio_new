@@ -8,7 +8,7 @@ export const Header = () => {
           <strong>
             Hi, my name is <em>Olena</em>
           </strong>
-          <br />a frontend developer
+          <br />I am your web developer
         </h1>
         <div className="header__text">
           <p>with passion for learning and creating.</p>
