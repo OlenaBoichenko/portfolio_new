@@ -36,7 +36,7 @@ const projects = [
     title: "Marine surveys",
     skills: "Java Script, HTML, CSS",
     img: yacht,
-    link: "https://serov.yachts/",
+    link: "https://www.boatcv.ca",
   },
 
   {
