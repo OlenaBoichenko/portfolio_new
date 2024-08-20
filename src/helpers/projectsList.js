@@ -51,7 +51,7 @@ const projects = [
     title: "Days counter",
     skills: "Java Script, HTML, CSS",
     img: newyear,
-    link: "https://counting-to-new-year.glitch.me/",
+    link: "https://counterdays.netlify.app/",
   },
 
   {
