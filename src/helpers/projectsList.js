@@ -9,6 +9,7 @@ import recipe from "../img/projects/recipe.jpg";
 import shop from "../img/projects/shop.jpg";
 import relax from "../img/projects/relax.jpg";
 import tips from "../img/projects/tips.jpg";
+import fact from "../img/projects/fact.jpg";
 
 const projects = [
   {
@@ -65,6 +66,13 @@ const projects = [
     skills: "Java Script, API, HTML, CSS",
     img: recipe,
     link: "https://tourmaline-sorbet-f12aa1.netlify.app/",
+  },
+
+  {
+    title: "Facts about cats",
+    skills: "React, API, HTML, CSS",
+    img: fact,
+    link: "https://factsofcats.netlify.app/",
   },
 
   {
