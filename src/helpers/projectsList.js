@@ -10,8 +10,15 @@ import shop from "../img/projects/shop.jpg";
 import relax from "../img/projects/relax.jpg";
 import tips from "../img/projects/tips.jpg";
 import fact from "../img/projects/fact.jpg";
+import indonesia from "../img/projects/indonesia.jpg";
 
 const projects = [
+  {
+    title: "Travel app",
+    skills: "Java Script, HTML/CSS",
+    img: indonesia,
+    link: "https://isexploreindonesia.netlify.app/",
+  },
   {
     title: "Candles home shop",
     skills: "React, Redux, Node.js, MongoDB, Stripe",
