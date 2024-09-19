@@ -11,6 +11,7 @@ import relax from "../img/projects/relax.jpg";
 import tips from "../img/projects/tips.jpg";
 import fact from "../img/projects/fact.jpg";
 import indonesia from "../img/projects/indonesia.jpg";
+import translation from "../img/projects/translation.jpg";
 
 const projects = [
   {
@@ -52,6 +53,13 @@ const projects = [
     skills: "Java Script, React, Redux",
     img: pasta,
     link: "https://fanciful-sopapillas-f3d09f.netlify.app/",
+  },
+
+  {
+    title: "Translator",
+    skills: "Java Script, React, Google Cloud API",
+    img: translation,
+    link: "https://intranslationapp.netlify.app/",
   },
 
   {
