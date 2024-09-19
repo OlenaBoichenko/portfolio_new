@@ -12,8 +12,15 @@ import tips from "../img/projects/tips.jpg";
 import fact from "../img/projects/fact.jpg";
 import indonesia from "../img/projects/indonesia.jpg";
 import translation from "../img/projects/translation.jpg";
+import movie from "../img/projects/movie.jpg";
 
 const projects = [
+  {
+    title: "Movies search",
+    skills: "Java Script, React, Node, API, HTML/CSS",
+    img: movie,
+    link: "https://lookformovies.netlify.app/",
+  },
   {
     title: "Travel app",
     skills: "Java Script, HTML/CSS",
