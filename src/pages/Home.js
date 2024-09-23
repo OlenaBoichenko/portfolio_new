@@ -12,7 +12,7 @@ export const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                JavaScript, ReactJS, Redux, Redux Toolkit, HTML, CSS, Git,
+                JavaScript, ReactJS, Redux, Redux Toolkit, HTML/CSS, Git,
                 BootStrap, MaterialUI, GSAP
               </p>
             </li>
