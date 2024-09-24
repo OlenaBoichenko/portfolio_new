@@ -108,14 +108,14 @@ const projects = [
     title: "Relaxtion app",
     skills: "Java Script, HTML, CSS",
     img: relax,
-    link: "https://my-own-meditation.glitch.me/",
+    link: "https://meditationday.netlify.app/",
   },
 
   {
     title: "Tip counter",
     skills: "Java Script, HTML, CSS",
     img: tips,
-    link: "https://some-tips.glitch.me/",
+    link: "https://calcoftips.netlify.app/",
   },
 ];
 
