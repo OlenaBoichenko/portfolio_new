@@ -2,7 +2,7 @@ import "./style.css";
 
 import gitHub from "../../img/icons/gitHub.svg";
 import linkedIn from "../../img/icons/linkedIn.svg";
-import mainskillone from "../../img/icons/mainskillone.svg";
+// import mainskillone from "../../img/icons/mainskillone.svg";
 
 export const Footer = () => {
   return (
@@ -32,9 +32,9 @@ export const Footer = () => {
           <div className="copyright">
             <p>© Olena Boichenko 2024</p>
           </div>
-          <div>
+          {/* <div>
           <a href="https://freelancehunt.com/freelancer/Olena_dev.html?from=shield&r=ooAyy" target="_blank" rel="noreferrer"><img src={mainskillone} alt="Freelancehunt — простой и честный фриланс" /></a>
-          </div>
+          </div> */}
         </div>
       </div>
     </footer>
