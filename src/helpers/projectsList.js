@@ -13,17 +13,24 @@ import fact from "../img/projects/fact.jpg";
 import indonesia from "../img/projects/indonesia.jpg";
 import translation from "../img/projects/translation.jpg";
 import movie from "../img/projects/movie.jpg";
+import travelblog from "../img/projects/travelblog.jpg";
 
 const projects = [
   {
+    title: "Travel Blog",
+    skills: "React, Vite, Node, MongoDB, API, HTML/Bootstrap",
+    img: travelblog,
+    link: "https://travel-blog-ca.netlify.app/",
+  },
+  {
     title: "Movies search",
-    skills: "Java Script, React, Node, API, HTML/CSS",
+    skills: "JavaScript, React, Node, API, HTML/CSS",
     img: movie,
     link: "https://lookformovies.netlify.app/",
   },
   {
     title: "Travel app",
-    skills: "Java Script, HTML/CSS",
+    skills: "JavaScript, HTML/CSS",
     img: indonesia,
     link: "https://isexploreindonesia.netlify.app/",
   },
@@ -36,56 +43,56 @@ const projects = [
 
   {
     title: "Shop for cats",
-    skills: "Java Script, React, HTML, CSS",
+    skills: "JavaScript, React, HTML, CSS",
     img: cat,
     link: "https://iridescent-smakager-627765.netlify.app/",
   },
 
   {
     title: "Irish bar",
-    skills: "Java Script, React, HTML, CSS",
+    skills: "JavaScript, React, HTML, CSS",
     img: bar,
     link: "https://serene-chebakia-09cd1e.netlify.app/",
   },
 
   {
     title: "Marine surveys",
-    skills: "Java Script, HTML, CSS",
+    skills: "JavaScript, HTML, CSS",
     img: yacht,
     link: "https://www.boatcv.ca",
   },
 
   {
     title: "Italian restaurant",
-    skills: "Java Script, React, Redux",
+    skills: "JavaScript, React, Redux",
     img: pasta,
     link: "https://fanciful-sopapillas-f3d09f.netlify.app/",
   },
 
   {
     title: "Translator",
-    skills: "Java Script, React, Google Cloud API",
+    skills: "JavaScript, React, Google Cloud API",
     img: translation,
     link: "https://intranslationapp.netlify.app/",
   },
 
   {
     title: "Days counter",
-    skills: "Java Script, HTML, CSS",
+    skills: "JavaScript, HTML, CSS",
     img: newyear,
     link: "https://counterdays.netlify.app/",
   },
 
   {
     title: "Weather forecast",
-    skills: "Java Script, API, HTML, CSS",
+    skills: "JavaScript, API, HTML, CSS",
     img: weather,
     link: "https://new-weather-forecast.glitch.me/",
   },
 
   {
     title: "Recipe finder",
-    skills: "Java Script, API, HTML, CSS",
+    skills: "JavaScript, API, HTML, CSS",
     img: recipe,
     link: "https://tourmaline-sorbet-f12aa1.netlify.app/",
   },
@@ -99,21 +106,21 @@ const projects = [
 
   {
     title: "Furniture show room",
-    skills: "Java Script, HTML, CSS",
+    skills: "JavaScript, HTML, CSS",
     img: shop,
     link: "https://furniture-salon-new.glitch.me/",
   },
 
   {
     title: "Relaxtion app",
-    skills: "Java Script, HTML, CSS",
+    skills: "JavaScript, HTML, CSS",
     img: relax,
     link: "https://meditationday.netlify.app/",
   },
 
   {
     title: "Tip counter",
-    skills: "Java Script, HTML, CSS",
+    skills: "JavaScript, HTML, CSS",
     img: tips,
     link: "https://calcoftips.netlify.app/",
   },
