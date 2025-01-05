@@ -13,14 +13,21 @@ import fact from "../img/projects/fact.jpg";
 import indonesia from "../img/projects/indonesia.jpg";
 import translation from "../img/projects/translation.jpg";
 import movie from "../img/projects/movie.jpg";
+import commerce from "../img/projects/commerce.jpg";
 import travelblog from "../img/projects/travelblog.jpg";
 
 const projects = [
   {
     title: "Travel Blog",
-    skills: "React, Vite, Node, MongoDB, API, HTML/Bootstrap",
+    skills: "React, Vite, Node, MongoDB, API, HTML/CSS, Bootstrap",
     img: travelblog,
     link: "https://travel-blog-ca.netlify.app/",
+  },
+  {
+    title: "Auction",
+    skills: "JavaScript, Django, HTML/CSS, Bootstrap",
+    img: commerce,
+    link: "https://commerce-0b2s.onrender.com/",
   },
   {
     title: "Movies search",
