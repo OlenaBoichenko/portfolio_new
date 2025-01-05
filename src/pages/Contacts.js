@@ -7,7 +7,7 @@ export const Contacts = () => {
         <ul className="content-list">
           <li className="content-list__item">
             <h2 className="title-2">Location</h2>
-            <p>Canada, BC, Sidney</p>
+            <p>Canada, BC, Victoria</p>
           </li>
 
           <li className="content-list__item">

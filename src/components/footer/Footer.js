@@ -30,11 +30,8 @@ export const Footer = () => {
             </li>
           </ul>
           <div className="copyright">
-            <p>© Olena Boichenko 2024</p>
+            <p>© Olena Boichenko 2023-2025</p>
           </div>
-          {/* <div>
-          <a href="https://freelancehunt.com/freelancer/Olena_dev.html?from=shield&r=ooAyy" target="_blank" rel="noreferrer"><img src={mainskillone} alt="Freelancehunt — простой и честный фриланс" /></a>
-          </div> */}
         </div>
       </div>
     </footer>

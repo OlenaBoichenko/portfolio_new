@@ -12,13 +12,13 @@ export const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                JavaScript, ReactJS, Redux, Redux Toolkit, HTML/CSS, Git,
+                JavaScript, ReactJS, Vite, Redux, Redux Toolkit, HTML/CSS, Git,
                 BootStrap, MaterialUI, GSAP
               </p>
             </li>
             <li className="content-list__item">
               <h2 className="title-2">Backend</h2>
-              <p>NodeJS, MongoDB, Stripe</p>
+              <p>NodeJS, MongoDB, Python, Django, Stripe</p>
             </li>
           </ul>
         </div>
