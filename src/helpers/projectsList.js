@@ -15,6 +15,7 @@ import translation from "../img/projects/translation.jpg";
 import movie from "../img/projects/movie.jpg";
 import commerce from "../img/projects/commerce.jpg";
 import travelblog from "../img/projects/travelblog.jpg";
+import planets from "../img/projects/planets.jpg";
 
 const projects = [
   {
@@ -22,6 +23,12 @@ const projects = [
     skills: "React, Vite, Node, MongoDB, API, HTML/CSS, Bootstrap",
     img: travelblog,
     link: "https://travel-blog-ca.netlify.app/",
+  },
+  {
+    title: "Interactive planets",
+    skills: "JavaScript, Three.js, Vite",
+    img: planets,
+    link: "https://planetsystem.netlify.app/",
   },
   {
     title: "Auction",
