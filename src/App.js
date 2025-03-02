@@ -9,6 +9,7 @@ import { Projects } from "./pages/Projects";
 import { Contacts } from "./pages/Contacts";
 import { ProjectPage } from "./pages/ProjectPage";
 import ScrollToTop from "./utils/ScrollToTop";
+import Chatbot from "./components/chatbot/Chatbot";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
           <Route path="/project/:id" element={<ProjectPage />} />
           <Route path="/contacts" element={<Contacts />} />
         </Routes>
+        <Chatbot />
         <Footer />
       </Router>
     </div>
