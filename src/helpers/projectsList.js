@@ -101,7 +101,7 @@ const projects = [
     title: "Weather forecast",
     skills: "JavaScript, API, HTML, CSS",
     img: weather,
-    link: "https://new-weather-forecast.glitch.me/",
+    link: "https://forecastnew.netlify.app/",
   },
 
   {
