@@ -13,7 +13,7 @@ export const Header = () => {
         <div className="header__text">
           <p>with passion for learning and creating.</p>
         </div>
-        <a href="https://drive.google.com/file/d/1EMPfyyGcjfWHalZ6nkcoCVEH85CcE1bz/view?usp=sharing" download="OlenaBoichenkoCV.pdf" className="btn">
+        <a href="https://drive.google.com/file/d/1cV6opBval8kApxEixqk4k5E22qbFWJrP/view?usp=sharing" download="OlenaBoichenkoCV.pdf" className="btn">
           Download CV
         </a>
       </div>
